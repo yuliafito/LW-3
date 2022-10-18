@@ -1,0 +1,11 @@
+[30mFlyingMan2 VS Killer1: [0mKiller has super armor that reflects the hit!
+[30mKiller1 VS FlyingMan2: Critical attack! [35m1000
+[0mFlyingMan[31m -900
+[30mFlyingMan2 VS Killer1: [0mKiller has super armor that reflects the hit!
+[30mFlyingMan2 VS Killer1: Critical attack! [35m1000
+[0mKiller[31m -550
+[30mFlyingMan2 VS Killer1: Magic attack! [35m1500
+[0mKiller[31m -1050
+[31mKiller1 is killed
+Team 1 has lost.
+[32mTeam 2, congratulate you on your victory! :)
